@@ -1,0 +1,39 @@
+.HEAD{
+    color: rgb(255, 255, 255);
+    box-shadow: 10px 10px 18px rgb(0, 0, 0);
+    border-radius: 10px;
+    width: 100%;
+    font-size: 25px;
+    font-weight: bold;
+}
+body{
+    background-color: teal;
+}
+
+.NOTE{
+    color: black;
+    font-size: 17px;
+}
+#footer{
+    position: fixed;
+    width: 100%;
+    background-color: black;
+    color: white;
+    bottom: 0px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+canvas{
+    border-radius: 20px;
+    border-width:10px;
+    box-shadow: 0 0 300px rgb(255, 255, 255);
+   
+   
+}
+video{
+    box-shadow: 0 0 300px white;
+    border: 10px solid black;
+    border-radius: 20px;
+}
